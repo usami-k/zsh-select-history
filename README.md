@@ -1,6 +1,6 @@
 # zsh-select-history
 
-Search zsh history with [peco](https://github.com/peco/peco).
+Search zsh history with [fzf](https://github.com/junegunn/fzf) or [peco](https://github.com/peco/peco).
 
 ## Install
 
